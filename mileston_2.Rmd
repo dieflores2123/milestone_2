@@ -1,0 +1,45 @@
+---
+title: "Milestone 2"
+author: "Diego Flores"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Two Project Comparison (Pros & Cons)
+
+Project 1- Harvard University Dining Services
+
+Pros:
+  - Easy to gather information (already consolidated beforehand from other resources)
+  - A direct relevance to student every day life
+  - Can help individuals llooking at the information to predict future meals
+  - The viduals created are very clean and aesthetically pleasing
+  - The breakdown of the information is comprehensive and easy to navigate
+
+Cons: 
+  - the breakdwown of the information could show more complex trends
+  - the simplicity of the graphs
+  - color scheme is aggressive
+  
+
+
+
+
+Project 2- How Couples Meet and Stay Together
+
+Pros
+  - Color scheme is very pleasing to the eye
+  - breakdown of information utilizes plenty visual forms of communication
+  - the breakdown of information shows multiple trends and leads to more than one conclusion
+  - information is easy and intuitive to navigate
+  - More than one variable taken into consideration
+
+Cons
+  - multiple variables can make the amount of information overwhelming
+  - some visuals are better made than others
+  - the information can cause the viewer to be sad as it has to do with having a relationship
+  - The trends in the data can not possibly result in definitive predictions as they do not take      all possible variables into account
